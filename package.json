@@ -2,23 +2,5 @@
   "dependencies": {
     "pg": "^8.10.0"
   },
-  "type": "module",
-  "name": "m7-abpro_2",
-  "version": "1.0.0",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/BryanC7/m7-abpro_2.git"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/BryanC7/m7-abpro_2/issues"
-  },
-  "homepage": "https://github.com/BryanC7/m7-abpro_2#readme",
-  "description": ""
+  "type": "module"
 }
